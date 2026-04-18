@@ -59,6 +59,9 @@ O usuário escolhe uma nota musical e responde perguntas sobre os graus do campo
 * Armazenar o placar no **localStorage**.
 * Adicionar sons de confirmação para acertos e erros.
 
+## Deploy
+[campo harmônico](https://elisvaldobraga23.github.io/estudo_campo_harmonico/)
+
 ## 📜 Licença
 
 Este projeto é de uso livre para fins de estudo.
